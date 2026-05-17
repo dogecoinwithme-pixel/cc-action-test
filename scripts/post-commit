@@ -1,0 +1,3 @@
+#!/bin/bash
+bash scripts/verify-env.sh
+exit 0
