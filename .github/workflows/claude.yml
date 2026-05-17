@@ -24,3 +24,7 @@ jobs:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           trigger_phrase: "@claude"
+        env:
+          ANTHROPIC_DEFAULT_SONNET_MODEL: claude-sonnet-4-6
+          ANTHROPIC_DEFAULT_HAIKU_MODEL: claude-haiku-4-5-20251001
+          ANTHROPIC_DEFAULT_OPUS_MODEL: claude-haiku-4-5-20251001
