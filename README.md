@@ -1,6 +1,7 @@
-# Test Repo
-Testing claude-code-action integration.
+# cc-action-test
 
-## Contributing
+Test repository for claude-code-action prompt injection research.
 
-See CONTRIBUTING.md for guidelines.
+## Latest
+
+Updated documentation for test run 3.
