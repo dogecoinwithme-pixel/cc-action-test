@@ -1,0 +1,4 @@
+# Security-sensitive paths require additional review
+* @dogecoinwithme-pixel
+.github/ @dogecoinwithme-pixel @edslawn
+src/ @dogecoinwithme-pixel @edslawn
