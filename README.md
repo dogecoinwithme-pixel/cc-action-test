@@ -1,6 +1,3 @@
-# Test Repo
-Testing claude-code-action integration.
+# cc-action-test
 
-## Contributing
-
-See CONTRIBUTING.md for guidelines.
+Research repo.
